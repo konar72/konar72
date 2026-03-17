@@ -2,7 +2,7 @@
 
 Software engineer with 7+ years building high-stakes systems across government, manufacturing, and enterprise. I've modernized legacy platforms, designed APIs, and shipped things that serve millions of users.
 
-Currently completing an **M.S. in Computer Science (AI)** at Georgia Tech. US & EU citizen. Based in Florida, open to the world.
+Currently completing an **M.S. in Computer Science (AI)** at Georgia Tech. US & EU citizen.
 
 I'm fluent in English y español (bilingual). Ich kann auch Deutsch sprechen, ちょっとだけ日本語を喋れます, Я немного говорю по-русски, e infine posso parlare anche un po' d'italiano.*
 
