@@ -1,6 +1,6 @@
 ## Hola 👋
 
-Software engineer with 7+ years building high-stakes systems across government, manufacturing, and enterprise. I've modernized legacy platforms, designed APIs, and shipped things that serve millions of users.
+Software engineer with 7+ years building and optimizing systems across government, manufacturing, and enterprise. I've modernized legacy platforms, designed APIs, and shipped things that serve millions of users.
 
 Currently completing an M.S. in Computer Science (AI) at Georgia Tech. US & EU citizen. Let's connect on [LinkedIn](https://www.linkedin.com/in/akonar)
 
